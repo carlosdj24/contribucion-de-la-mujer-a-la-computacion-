@@ -1,0 +1,1 @@
+Inventa en 1952 el primer compilador para ordenador. Inventa el lenguaje COBOL. Fue una científica especializada en Matemáticas y también una militar norteamericana, con grado de almirante, considerada una pionera en el mundo de la informática.
