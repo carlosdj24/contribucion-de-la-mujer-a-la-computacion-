@@ -1,3 +1,3 @@
 # contribucion-de-la-mujer-a-la-computacion-
 ##Ejemplos 
-- (Radia Joy) [radiajoy.md.txt]
+- (Radia Joy) [radiajoy.txt]
